@@ -40,9 +40,7 @@ Uma API RESTful desenvolvida em Go para divulgação de vagas de emprego. Usuár
     http://localhost:8080
 
 📦 Instalação de Dependências
-    instale as dependências do Go com:
-    
-    ```bash
+   ```bash
     go mod tidy
 
 ⚙️ Configuração do Banco de Dados
