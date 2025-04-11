@@ -3,17 +3,6 @@
 Uma API RESTful desenvolvida em Go para divulgação de vagas de emprego. Usuários podem cadastrar, listar, buscar e remover oportunidades de forma simples e rápida.
 
 ---
-
-## 📚 Sumário
-
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como Rodar o Projeto](#-como-rodar-o-projeto)
-- [Instalação de Dependências](#-instalação-de-dependências)
-- [Configuração do Banco de Dados](#-configuração-do-banco-de-dados)
-
----
-
 ## 🚀 Funcionalidades
 
 - 📋 Listar todas as vagas
@@ -43,9 +32,12 @@ Uma API RESTful desenvolvida em Go para divulgação de vagas de emprego. Usuár
    cd gopportunities
 
 2. Suba os containers com Docker Compose:
+   
+    ```bash
     docker-compose up
-    Acesse a API no navegador ou via Postman:
-    http://localhost:8000
+    
+4. Acesse a API no navegador ou via Postman:
+    http://localhost:8080
 
 📦 Instalação de Dependências
     instale as dependências do Go com:
