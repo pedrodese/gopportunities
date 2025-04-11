@@ -42,7 +42,7 @@ Uma API RESTful desenvolvida em Go para divulgação de vagas de emprego. Usuár
 📦 Instalação de Dependências
    ```bash
     go mod tidy
-
+   ```
 ⚙️ Configuração do Banco de Dados
 O projeto já inclui um docker-compose.yml com o banco PostgreSQL configurado com os seguintes dados padrão:
 
