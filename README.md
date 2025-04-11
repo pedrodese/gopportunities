@@ -41,6 +41,8 @@ Uma API RESTful desenvolvida em Go para divulgação de vagas de emprego. Usuár
 
 📦 Instalação de Dependências
     instale as dependências do Go com:
+    
+    ```bash
     go mod tidy
 
 ⚙️ Configuração do Banco de Dados
